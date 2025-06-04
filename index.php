@@ -220,7 +220,7 @@
 
     <script>
         // Fixed encryption key - embedded in code as requested
-        const ENCRYPTION_KEY = '4-4=O=2-2-****-Public_Key-.Open_with_Website/****PWA-#2+2=22^-2#';
+        const ENCRYPTION_KEY = '///////env_key////////';
         
         // Application state
         let passwords = [];
